@@ -31,4 +31,4 @@ This repository contains my pre-thesis independent laboratory project completed 
 - Comparative evaluation of the Fourier and Capon methods using simulated and measured data  
 - Assessment of accuracy, noise robustness, and interference performance  
 
-The repository includes the simulation code, the measurement results, and the complete project documentation (the finalized PDF report).
+The repository includes the simulation code, the measurement results, and the complete project documentation (the finalized PDF report which is only avaiable in Hungarian).
