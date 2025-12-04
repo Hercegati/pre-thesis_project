@@ -14,7 +14,7 @@ Ez a repó a BME Villamosmérnöki BSc képzésben végzett önálló laboratór
 - A Fourier- és a Capon-módszer összehasonlítása szimulációs és mérési eredmények alapján  
 - Kiértékelés pontosság, zaj- és interferenciaérzékenység szempontjából
 
-A repó tartalmazza a szimulációs kódokat, a mérési eredményeket, valamint a projekt teljes dokumentációját (a kész, megírt PDF-et).
+A repó tartalmazza a szimulációs kódokat, a mérési eredményeket, valamint az előadást és projekt teljes dokumentációját (a kész, megírt PDF-et).
 
 ---
 
@@ -31,4 +31,4 @@ This repository contains my pre-thesis independent laboratory project completed 
 - Comparative evaluation of the Fourier and Capon methods using simulated and measured data  
 - Assessment of accuracy, noise robustness, and interference performance  
 
-The repository includes the simulation code, the measurement results, and the complete project documentation (the finalized PDF report which is only avaiable in Hungarian).
+The repository includes the simulation code, the measurement results, the presentation and the complete project documentation (the finalized PDF report which is only avaiable in Hungarian).
