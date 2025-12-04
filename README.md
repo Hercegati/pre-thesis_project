@@ -5,6 +5,8 @@ BME Villamosmérnök/Electrical Engineer BSc, Önálló laboratórium/Pre-thesis
 
 Ez a repó a BME Villamosmérnöki BSc képzésben végzett önálló laboratóriumi (pre-thesis) projektemet tartalmazza. A projekt célja iránybecslési eljárások vizsgálata ekvidisztáns, lineáris antennarendszerrel, különös tekintettel a klasszikus Fourier-alapú módszerre és a Capon-féle minimum-varianciájú becslésre.
 
+A projektet a Szélessávú Hírközlés és Villamosságtan Tanszéken (HVT) végzem.
+
 ### Tartalom és felépítés
 
 - A két iránybecslési módszer matematikai modelljének felállítása  
@@ -21,6 +23,8 @@ A repó tartalmazza a szimulációs kódokat, a mérési eredményeket, valamint
 ## 🇬🇧 English Description
 
 This repository contains my pre-thesis independent laboratory project completed within the BSc Electrical Engineering program at BME. The project focuses on direction-of-arrival (DoA) estimation using a linear equidistant antenna array and compares two methods: the classical Fourier-based approach and the Capon minimum-variance technique.
+
+The project is carried out at the Department of Broadband Infocommunications and Electromagnetic Theory (HVT).
 
 ### Scope and Structure
 
